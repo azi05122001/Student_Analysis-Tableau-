@@ -1,6 +1,5 @@
 # Student Lifestyle, Study Habits, and Well-Being Analysis (Tableau Dashboard)
 
-![Dashboard Preview](dashboard_preview.png)
 
 ## Project Overview
 This interactive **Tableau** project analyzes the relationship between **Student Count (SC)** and key academic, lifestyle, and well-being indicators across a dataset of **502 student records**. The dashboard examines how sleep duration, daily study hours, study satisfaction, academic pressure, and financial stress are distributed throughout the student population.
